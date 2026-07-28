@@ -377,7 +377,7 @@ footer p { color: rgba(255,255,255,.38); font: 500 8px/1 var(--font-mono); lette
     padding-left: 16px;
   }
   .topbar { padding: 0 16px; }
-  .hero h1 { font-size: clamp(76px, 27vw, 105px); }
+  .hero h1 { font-size: clamp(74px, 23.5vw, 92px); }
   .registration-panel h2 { font-size: clamp(64px, 20vw, 88px); }
   .lead { margin-top: 20px; }
   .event-line span { font-size: 6.5px; }
