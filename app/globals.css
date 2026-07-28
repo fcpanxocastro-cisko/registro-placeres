@@ -219,7 +219,13 @@ footer p { color: rgba(255,255,255,.38); font: 500 8px/1 var(--font-mono); lette
 
   .experience {
     min-height: 0;
+    width: 100%;
     grid-template-columns: 1fr;
+  }
+  .experience-image,
+  .registration-panel {
+    min-width: 0;
+    width: 100%;
   }
   .experience-image {
     min-height: 0;
