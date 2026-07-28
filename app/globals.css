@@ -170,12 +170,12 @@ footer p { color: rgba(255,255,255,.38); font: 500 8px/1 var(--font-mono); lette
   }
   .hero-video {
     object-position: 58% top;
-    opacity: .76;
-    filter: saturate(.72) contrast(1.12) brightness(.62);
+    opacity: .88;
+    filter: saturate(.78) contrast(1.08) brightness(.84);
   }
   .hero-shade {
     background:
-      linear-gradient(0deg, rgba(0,0,0,.96) 0%, rgba(0,0,0,.7) 43%, rgba(0,0,0,.18) 76%, rgba(0,0,0,.58) 100%),
+      linear-gradient(0deg, rgba(0,0,0,.96) 0%, rgba(0,0,0,.68) 43%, rgba(0,0,0,.12) 76%, rgba(0,0,0,.36) 100%),
       linear-gradient(90deg, rgba(0,0,0,.58), transparent 72%);
   }
   .topbar { height: 68px; padding: 0 20px; }
