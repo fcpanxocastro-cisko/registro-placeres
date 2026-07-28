@@ -382,6 +382,7 @@ footer p { color: rgba(255,255,255,.38); font: 500 8px/1 var(--font-mono); lette
   .lead { margin-top: 20px; }
   .event-line span { font-size: 6.5px; }
   .primary-button { padding: 0 14px; letter-spacing: .09em; }
+  .primary-button span { display: none; }
   .registration-panel,
   .story-copy,
   .social-section { padding-right: 16px; padding-left: 16px; }
