@@ -272,9 +272,14 @@ export default function PlaceresPage() {
       <footer>
         <div className="footer-flow">FLOW <strong>NEW YORK</strong></div>
         <p>Placeres · Escucha privada · 2026</p>
-        <div className="distrikt-wordmark" aria-label="By Distrikt">
-          <span>BY</span>
-          <strong>DISTRIKT</strong>
+        <div className="distrikt-brand" aria-label="By Distrikt, estrategia, música, contenido y tecnología">
+          <span className="distrikt-by">BY</span>
+          <div>
+            <strong className="distrikt-logo">
+              D<span>!</span>STR<span>!</span>KT<sup>®</sup>
+            </strong>
+            <small>ESTRATEGIA · MÚSICA · CONTENIDO · TECNOLOGÍA</small>
+          </div>
         </div>
       </footer>
     </main>
