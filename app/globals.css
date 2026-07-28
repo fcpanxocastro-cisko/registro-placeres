@@ -410,8 +410,9 @@ footer p { color: rgba(255,255,255,.38); font: 500 8px/1 var(--font-mono); lette
   .event-line span { font-size: 6.5px; }
   .primary-button {
     padding: 0 14px;
-    font-size: 8px;
-    letter-spacing: .075em;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: .06em;
     white-space: nowrap;
   }
   .primary-button span { display: none; }
